@@ -1,0 +1,92 @@
+ body
+ {
+    font-family: Arial;
+    background-color: white;
+    margin:5%
+    
+    
+ }
+ #imagem
+ {
+    height:100px;
+    width: 80px;
+    float: left;
+}
+#menu
+{
+    height:100%;
+    width:30%;
+    float: left;
+    background-color: rgb(241, 239, 245);
+    border: solid;
+}
+.menu1
+{
+    margin-top: 0%;
+    text-align: center;
+    background-color: rgb(216, 223, 223);
+}
+ #Informações 
+ {
+    float: left;
+    border: solid;
+    border-radius: 10%;
+    background-color:lightgray;
+    margin-left: 6%;
+ }
+ #Resumo
+ {
+    float: left;
+}
+#Experiência
+{
+    float: left;
+    display: flex;
+    flex-direction: column;
+    border: solid;
+}
+#Formação
+{
+    float: right;
+    border: solid;
+    border-radius: 10%;
+    background-color:lightgray;
+    margin-left: 6%;
+}
+#Habilidades
+{
+    float: left;
+}
+#Referências
+{
+    float: right;
+}
+#Redes
+{
+    float: left;
+    border: solid;
+    border-radius: 10%;
+    background-color:lightgray;
+    margin-left: 6%;
+    margin-top: 1%;
+}
+.resumo
+{
+    background-color:black;
+    color: white;
+}
+.Experiência
+{
+    background-color:black;
+    color: white;
+}
+.Habilidades
+{
+    background-color:black;
+    color: white;
+}
+.Referências
+{
+    background-color:black;
+    color: white;
+}
